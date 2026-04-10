@@ -1,10 +1,11 @@
 package com.facultad;
 
+import com.facultad.ejercicios.Ejercicio1;
+
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("Hola mundo");
 
-        // acá llamás tus ejercicios
+        Ejercicio1.ejecutar();
     }
 }
