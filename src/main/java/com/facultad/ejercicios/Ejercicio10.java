@@ -13,7 +13,8 @@ public class Ejercicio10 {
         Map<Integer,List<String>> nombresPorLongitud = nombres.stream()
                 .collect(Collectors.groupingBy(String::length));
 
-        System.out.println();
+        System.out.println("Los nombres agrupados por longitud son: " + nombresPorLongitud);
+
 
 
     }
