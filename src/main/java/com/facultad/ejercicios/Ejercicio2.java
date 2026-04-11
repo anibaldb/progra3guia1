@@ -11,7 +11,10 @@ public class Ejercicio2 {
                 .map(String::toUpperCase)
                 .toList();
 
+        System.out.println("Los nombres en mayúsculas son: " + mayusculas);
+
     }
+
 
 
 
