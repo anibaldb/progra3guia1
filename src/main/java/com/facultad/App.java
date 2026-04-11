@@ -15,5 +15,7 @@ public class App {
         Ejercicio4.ejecutar();
 
         Ejercicio5.ejecutar();
+
+        Ejercicio6.ejecutar();
     }
 }
