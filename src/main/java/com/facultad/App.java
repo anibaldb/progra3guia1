@@ -32,6 +32,8 @@ public class App {
 
         Ejercicio13.ejecutar();
 
+        Ejercicio14.ejecutar();
+
 
     }
 }
