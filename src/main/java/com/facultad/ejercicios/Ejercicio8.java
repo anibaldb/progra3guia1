@@ -6,6 +6,10 @@ import java.util.List;
 
 public class Ejercicio8 {
 
+    //8. Eliminar duplicados de una lista
+    //○ Usa distinct para remover duplicados de una lista de
+    //números enteros.
+
     public static void ejecutar(){
 
         List<String> nombres = List.of("juan","ana","pedro","lucas","ana");

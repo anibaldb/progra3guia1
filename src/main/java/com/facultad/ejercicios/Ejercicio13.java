@@ -8,6 +8,11 @@ import java.util.stream.Collectors;
 
 public class Ejercicio13 {
 
+    //13. Convertir una lista de enteros en una cadena separada
+    //por guiones
+    //● Usa map y Collectors.joining para convertir una lista
+    //de enteros en una cadena con valores separados por -.
+
     public static void ejecutar(){
 
 

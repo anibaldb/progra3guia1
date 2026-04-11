@@ -7,6 +7,11 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 public class Ejercicio14 {
+
+    //14. Agrupar una lista de números en pares e impares
+    //● Usa Collectors.partitioningBy para separar los
+    //números de una lista en pares e impares.
+
     public static void ejecutar(){
 
         Map<Boolean, List<Integer>> numerosAgrupados = Datos.numeros.stream()

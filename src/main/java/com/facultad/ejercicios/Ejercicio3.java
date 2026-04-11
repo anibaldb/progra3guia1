@@ -5,6 +5,11 @@ import java.util.Scanner;
 
 public class Ejercicio3 {
 
+    //3. Ordenar una lista de números
+    //○ Usa sorted para ordenar una lista de números enteros de
+    //menor a mayor.
+
+
     public static void ejecutar(){
 
         List<Integer> numeros = List.of(2,1,3,5,4,6,10,8,9,7);
